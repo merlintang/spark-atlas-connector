@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Agent-Class: com.hortonworks.spark.atlas.ml.AgentML
+Premain-Class: com.hortonworks.spark.atlas.ml.AgentML
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
